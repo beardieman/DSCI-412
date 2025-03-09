@@ -5,19 +5,27 @@ date: "2025-03-09"
 output: html_document
 ---
 # What I learned each week.
+
 ## Week 1
 This week I learned a lot about formatting R markdown files. I also learned about the bias-variance tradeoff.
+
 ## Week 2
 I learned how to use the summary command to spot problems in the data, especially missing values. I also learned about the difference between exploratory and explanatory analysis.
+
 ## Week 3
 I learned how to make a linear regression model and about the assumptions needed for the model to function properly.
+
 ## Week 4
 I learned about classification models, specifically logistic regression. I also learned about the performance measure precision and recall.
+
 ## Week 5
 I learned about generalized linear models, specifically poisson regresson and gamma regression. These have relaxed assumptions compared to linear models, so they can be easier to use on any data set.
+
 ## Week 6
 I learned about decision trees and random forest models. I also learned about gradient boosting machines.
+
 ## Week 7
 I learned about unsupervised models, one of which is clustering which groups data based on its similarities. Something it is used in a lot is anamoly detection.
+
 ## Week 8
 I learned a lot about the importance of documenting your code. This is super helpful especially when needing to return to work on it in the future. I also learned about git commands.
